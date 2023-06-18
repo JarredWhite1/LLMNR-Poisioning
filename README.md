@@ -26,7 +26,7 @@ Starting Responder: <br/>
 <br />
 <br />
 Reaching out to our Atttacking IP from Windows target machine:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 "Failed to resolve" error on target Windows machine: <br/>
