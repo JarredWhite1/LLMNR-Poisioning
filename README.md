@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of using the Responder tool in Kali Linux to capture NTLMv2 hashes on a Windows 10 target machine. The machine makes a call to our attacking machine for POC that poisoning can occur. This allows a compromise of user password hashes that can be extracted and then cracked with another tool in Kali called hashcat.
 <br />
 
 
