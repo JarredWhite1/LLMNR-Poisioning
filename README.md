@@ -22,7 +22,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Starting Responder: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Reaching out to our Atttacking IP from Windows target machine:  <br/>
